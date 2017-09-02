@@ -1,0 +1,25 @@
+body{
+	background-image: url("citylights.jpg");
+	background-repeat: no-repeat;
+}
+h1{
+	color:white;
+	font-size: 55px;
+	text-align: center;
+	margin-top: 225px;
+}
+#mainText{
+	font-family: 'Caveat', cursive;
+}
+#submitBtn{
+	background-color: #545454;
+	border-color: #545454;
+	opacity: 0.5;
+
+}
+/*div{
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	opacity: 0.2;
+}*/
